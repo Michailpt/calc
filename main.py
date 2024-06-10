@@ -5,7 +5,7 @@ today = dt.datetime.today().date()
 date_format = '%d.%m.%Y'
 
 class CaloriesCalculator:
-    """Калькулятор калорий7"""
+    """Калькулятор калорий8"""
     def __init__(self, limit):
         self.limit = limit
         self.records = []
